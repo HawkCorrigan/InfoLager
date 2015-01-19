@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\bin\Debug\machinelearning.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\obj\Debug\machinelearning.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\obj\Debug\machinelearning.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\obj\Debug\machinelearning.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\obj\Debug\machinelearning.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\bin\Debug\machinelearning.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\bin\Debug\machinelearning.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\bin\Debug\numl.dll
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\bin\Debug\numl.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\bin\Debug\numl.xml
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\obj\Debug\machinelearning.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\machinelearning\machinelearning\obj\Debug\machinelearning.pdb

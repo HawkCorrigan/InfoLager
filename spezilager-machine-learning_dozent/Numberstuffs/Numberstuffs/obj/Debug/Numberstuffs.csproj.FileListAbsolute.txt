@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\bin\Debug\Numberstuffs.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\bin\Debug\Numberstuffs.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\bin\Debug\Numberstuffs.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\obj\Debug\Numberstuffs.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\obj\Debug\Numberstuffs.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\obj\Debug\Numberstuffs.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\obj\Debug\Numberstuffs.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\obj\Debug\Numberstuffs.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\InfoLager'n'Stuff\Numberstuffs\Numberstuffs\obj\Debug\Numberstuffs.pdb
